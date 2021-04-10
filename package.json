@@ -1,0 +1,25 @@
+{
+  "name": "note-app-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JunaidQureshi05/note-app-node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JunaidQureshi05/note-app-node/issues"
+  },
+  "homepage": "https://github.com/JunaidQureshi05/note-app-node#readme",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "validator": "^10.8.0",
+    "yargs": "^12.0.2"
+  }
+}
